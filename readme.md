@@ -8,5 +8,6 @@ Internship Period - 22 June 2026 - 20 July 2026
 <br>
 Duration - 4weeks
 <br>
-Selected For:
+Selected For: Full Stack Web Development Intern
+<br>
 Organization: Codtech IT Solutions Private Limited
